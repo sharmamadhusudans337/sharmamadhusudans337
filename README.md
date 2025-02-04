@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madhusudan Sharma
-- 👀 I’m interested in  Frontend development.
-- 🌱 I’m currently learning CSS just started few days ago with my journey of frontend dev.
+- 👀 I’m interested in Java Promming.
+- 🌱 I’m currently learning new thing each day in java, just started few days ago with my journey as a Java developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
